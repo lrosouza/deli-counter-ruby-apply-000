@@ -29,7 +29,7 @@ end
 
 $line_number = 0
 def number
-    line_number += 1
+    $line_number += 1
   puts "Order number #{line_number}"
 end
 puts number
