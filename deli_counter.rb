@@ -36,5 +36,3 @@ end
 puts number
 puts number
 puts number
-
-
